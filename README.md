@@ -1,2 +1,2 @@
-# system-automation
-This repository contains various scripts to help automate building a system out from scratch to a full blonw ruby environment.  It also adds some eye candy for the desktop.
+# System Automation
+I've worked a lot in the past with a number of systems.  Everything from Windows, the macOS, to Linux Distributions like Ubuntu/ArchLinux.  My goal is to automate some of the setup involved with these systems.   These scripts will be broken up by folder, where each folder denotes the type of system I wish to build.  They may or may not be relevant to your use case.  ALways review the code before running the scripts.
